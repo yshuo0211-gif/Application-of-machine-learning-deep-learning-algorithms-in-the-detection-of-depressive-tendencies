@@ -1,0 +1,2 @@
+# Application-of-machine-learning-deep-learning-algorithms-in-the-detection-of-depressive-tendencies
+This study aims to explore the use of social media data, particularly user behavior characteristics (such as the number of tweets and follow relationships) and text content (through word embedding representation), to construct machine learning models for the early identification and auxiliary diagnosis of user depression tendencies.
